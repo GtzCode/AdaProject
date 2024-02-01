@@ -84,9 +84,10 @@ Email: gtz.code@gmail.com
 
 
 
+<img width="555" alt="Dash" src="">
 
 <!-- ACKNOWLEDGMENTS -->
-[adademo-img]: ./Dash.PNG
+[adademo-img]: https://github.com/GtzCode/AdaProject/assets/47282745/d436b77b-3cce-47a2-9f66-d3c01ae16bbb
 [adademo-url]: http://ada.gtzcode.link:5000/
 
 
