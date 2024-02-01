@@ -66,25 +66,11 @@ Algunas funcionalidades:
 ![ReactJs][ReactJs]
 ![Bootstrap][Bootstrap]
 
-<p align="right">[<a href="#readme-top">volver arriba</a>]</p>
-
-<!-- USAGE -->
-## Uso
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-<p align="right">[<a href="#readme-top">volver arriba</a>]</p>
-
-
-<!-- CONTRIBUTING -->
-## Contacto.
 Email: gtz.code@gmail.com
 
 <p align="right">[<a href="#readme-top">volver arriba</a>]</p>
 
 
-
-<img width="555" alt="Dash" src="">
 
 <!-- ACKNOWLEDGMENTS -->
 [adademo-img]: https://github.com/GtzCode/AdaProject/assets/47282745/d436b77b-3cce-47a2-9f66-d3c01ae16bbb
