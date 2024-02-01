@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./database.png" alt="Logo" width="80" height="80">
+    <img src="[./database.png](https://github.com/GtzCode/AdaProject/assets/47282745/6c5c7487-4e4c-450b-bcb5-54bdc6c9c389)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ADA Software</h3>
